@@ -40,7 +40,7 @@
 
 ---
 
-## 2. 🌐 Web / API Application Security Assessment
+## 2. 🌐 Web Application Security Assessment
 
 > 기업 서비스(Web/API) 대상 취약점 점검 및 PoC 재현
 
