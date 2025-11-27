@@ -1,7 +1,7 @@
 # 📜 유진욱 포트폴리오
 
 > Penetration Tester & Security Engineer  
-> 실전 모의해킹 · 취약점 분석 · CVE PoC · 클라우드 보안(Akamai / AWS / GCP)
+> 모의해킹 · 취약점 분석 · CVE PoC · 클라우드 보안(Akamai / AWS / GCP)
 
 <br />
 
